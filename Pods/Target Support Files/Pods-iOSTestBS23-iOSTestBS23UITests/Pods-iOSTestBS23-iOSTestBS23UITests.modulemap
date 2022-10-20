@@ -1,0 +1,6 @@
+framework module Pods_iOSTestBS23_iOSTestBS23UITests {
+  umbrella header "Pods-iOSTestBS23-iOSTestBS23UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
